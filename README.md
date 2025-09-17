@@ -1,1 +1,1 @@
-Java OOP principal
+Java OOP principle
